@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_size">100dp</dimen>
+    <dimen name="card_image_size">128dp</dimen>
+    <dimen name="expand_image_height">180dp</dimen>
+    <dimen name="expand_landscape_width">308dp</dimen>
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="expand_margin">16dp</dimen>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="guideline_position">0.5</dimen>
+</resources>
